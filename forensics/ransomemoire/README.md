@@ -11,6 +11,9 @@
 >> Ransomémoire 3/3 - Doppelgänger :
 >>> 500 points de départ
 
+Fichier :
+- SHA256([fcsc.7z](https://drive.google.com/file/d/1jMoc88y_PzsVQv4EbPE2qcXxHFEwHZVq/view?usp=share_link)) = 754cb093af343356827d650270f9faa56cc4c44f44243ea08590edb1bc270b5e
+
 # 0/3
 
 >Vous vous préparez à analyser une capture mémoire et vous notez quelques informations sur la machine avant de plonger dans l'analyse :

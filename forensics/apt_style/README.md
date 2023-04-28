@@ -24,7 +24,8 @@
 > débloqué après APT Style 2/7
 > Attention : pour ces épreuves, vous n'avez que 10 tentatives de flag par épreuve.
 > Toutes les épreuves de cette série utilisent le même fichier disponible ci-dessous.
-> SHA256(Win10_22H2_French_x64.iso) = 6b308977cecc9b6d8aa50a8ddabdacdf01394b0819d5978141ed61862c61143f.
+Fichier :
+- SHA256([Win10_22H2_French_x64.iso]()) = 6b308977cecc9b6d8aa50a8ddabdacdf01394b0819d5978141ed61862c61143f.
 
 # 1/7
 
