@@ -7,12 +7,12 @@
 
 ## Forensics
 - [X] [Weird shell](./forensics/weird_shell/)
-- [] [Ransomémoire](./forensics/ransomemoire) - 0 et 3
-- [] [APT Style](./forensics/apt_style)
-- [] [Sadmind](./forensics/sadmind)
-- [] [Baleine sous gravier](./forensics/baleine_sous_gravier)
+- [ ] [Ransomémoire](./forensics/ransomemoire) - 0 et 3
+- [ ] [APT Style](./forensics/apt_style)
+- [ ] [Sadmind](./forensics/sadmind)
+- [ ] [Baleine sous gravier](./forensics/baleine_sous_gravier)
 
 ## Reverse
-- [] [Chiffre unique](./reverse/chiffre_unique/)
-- [] [Chaussette XS](./reverse/chaussette_xs/)
-- [] [Chaussette](./reverse/chaussette/)
+- [ ] [Chiffre unique](./reverse/chiffre_unique/)
+- [ ] [Chaussette XS](./reverse/chaussette_xs/)
+- [ ] [Chaussette](./reverse/chaussette/)
